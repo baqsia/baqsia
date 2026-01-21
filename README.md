@@ -1,21 +1,48 @@
-Software Engineer | AI-Driven Engineer | Software Enthusiast
+# 👋 Hi there
 
-With an extensive journey across complex, long-lived software systems, I focus on transforming legacy platforms into scalable, secure, and future-ready architectures. My work spans designing end-to-end systems, leading technical teams, and delivering modernization initiatives that balance business continuity with long-term evolution.
+**Software Architect | Tech Lead | AI-Driven Engineer | Modernization Enthusiast**
 
-I’m deeply committed to empowering engineering teams—helping them navigate architectural complexity, make sound technical decisions, and confidently tackle high-impact challenges.
+I focus on designing, evolving, and modernizing complex software systems. My work centers on transforming legacy platforms into scalable, secure, and maintainable architectures while ensuring business continuity and long-term growth.
 
-🛠 What I Do
+I care deeply about building strong engineering foundations, enabling technical teams, and solving hard problems with pragmatic, well-reasoned solutions.
 
-🏛 High-Level Architecture & System Design — Modular monoliths, DDD, CQRS, event-driven systems
+---
 
-🔍 Complex Software Engineering — From legacy refactoring to greenfield platforms
+## 🛠 What I Do
 
-☁️ Cloud-Ready Architectures — Security, scalability, and operational excellence
+- 🏛 **High-Level Architecture & System Design**  
+  Modular monoliths, Domain-Driven Design (DDD), CQRS, event-driven systems
 
-⚡ Modernization & Refactoring — Turning legacy systems into maintainable, extensible solutions
+- 🔍 **Complex Software Engineering**  
+  Legacy refactoring, system redesign, and greenfield development
 
-🖥️ Hands-On Engineering — Production-grade code, not just diagrams
+- ☁️ **Cloud-Ready Architectures**  
+  Secure, scalable, and observable systems designed for growth
 
-🚀 Innovation & Evolution — Moving existing products forward without breaking them
+- ⚡ **Modernization & Refactoring**  
+  Turning legacy systems into clean, extensible, and maintainable platforms
 
-I actively use AI as a force multiplier in my daily workflow—for architectural analysis, refactoring strategies, documentation, and accelerating engineering feedback loops.
+- 🖥️ **Hands-On Engineering**  
+  Writing production-grade code, not just architecture documents
+
+- 🚀 **Product Evolution & Innovation**  
+  Moving existing products forward without unnecessary risk
+
+---
+
+## 🤖 How I Use AI
+
+I use AI as a practical force multiplier to:
+- Analyze and validate architectural decisions  
+- Accelerate refactoring and modernization efforts  
+- Improve documentation, design clarity, and feedback loops  
+- Increase engineering productivity without sacrificing quality
+
+---
+
+## 🌍 Let’s Connect
+
+If you’re interested in collaboration, architecture discussions, or modern software engineering, feel free to connect.
+
+🔗 **GitHub:** https://github.com/your-username  
+🔗 **LinkedIn:** https://www.linkedin.com/in/your-profile
